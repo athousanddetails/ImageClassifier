@@ -1,1 +1,1 @@
-# Template for Machine Learning projects
+# Image Classifier Algorithm
